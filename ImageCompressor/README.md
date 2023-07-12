@@ -1,9 +1,10 @@
-# Compress Image
-While working on application performance tuning for some part time work I needed to find a way to compress 100,000+ images.
-I wrote a pythons script (attached below) to compress the files for this specific task.
-Here’s my version of the image compression script built for compressing images in a given directory to a managebale size using Pil (or Pillow) a python library that does most of the work here.
+# Image Compressor
 
+## Introduction
+A good image compressor is like a magician who can shrink the size of an image without compromising its visual enchantment, casting a spell of efficiency and elegance.
+Link: https://imagecompressor.tradept.com.ng/
 ## Installation
+	Clone this repository.
 
 ##### Dependencies
 Install PIL or Pillow
@@ -13,6 +14,16 @@ Install PIL or Pillow
 
 ## Usage
 1. Download above python script. 
+	or
+	Use this service at location: https://imagecompressor.tradept.com.ng/
+
+## Contribution 
+	Ighodaro Uyi
+
+## Related projects
+
+##Licensing
+  Open
 
 2. Create directory named "input" in same directory where above python code it present.
 
